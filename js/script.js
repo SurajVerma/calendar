@@ -100,7 +100,7 @@ function renderCalendar(m, y) {
     let s_m = document.getElementById('s_m');
     s_m.innerHTML = months[m] + ' ' + y;
     let date = 1;
-    //remaing dates of last month
+    //remaining dates of last month
     let r_pm = (d_pm-firstDay) +1;
     for (let i = 0; i < 6; i++) {
         let row = document.createElement('tr');
