@@ -27,7 +27,7 @@ let year = c_date.getFullYear();
         <div class="row">
             <div class="col-sm-10 mx-auto text-center mt-5 page-hero">
                 <h3>Javascript Event Calendar</h3>
-                <p>An event calendar based on Javascript, JQuery and Bootstrap. Events are stored in your browser's local storage. Click on a date to add or remove your events</p>
+                <p>An event calendar made with Javascript. Events are stored in your browser's local storage. Click on a date to add or remove your events</p>
             </div>
         </div>
             <div class="row">

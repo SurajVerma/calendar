@@ -1,6 +1,6 @@
-# JS Event Calendar
+# JavaScript Event Calendar
 
-A responsive event calendar made with Javascript and Bootstrap.
+A responsive event calendar made with Javascript.
 
 Events are stored in your browser's localStorage.
 
